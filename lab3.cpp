@@ -27,7 +27,7 @@ void meanVsMedian()
         printf("same");
     }
 }
-int main()
+void ()
 {
     meanVsMedian();
     return 0;
